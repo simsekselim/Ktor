@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "715922861185",
+    "firebase_url": "https://codexall-7ec9f-default-rtdb.firebaseio.com",
+    "project_id": "codexall-7ec9f",
+    "storage_bucket": "codexall-7ec9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:715922861185:android:ed37a08d2258bd8f217180",
+        "android_client_info": {
+          "package_name": "com.simsekselim.ktor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "715922861185-gpecq4bqsrrnlm4gonrgh1ash2v9ip74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKnD4MLBER_Jy5mQsJjVzQnqsap89jepw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "715922861185-gpecq4bqsrrnlm4gonrgh1ash2v9ip74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
